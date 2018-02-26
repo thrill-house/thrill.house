@@ -1,0 +1,13 @@
+stages:
+  - deploy
+
+deploy_staging:
+  stage: deploy
+  script:
+    - echo "Deploy to server"
+    - rsync -av --delete --exclude-from .rsyncexclude ./ /var/www/thrill.house
+  environment:
+    name: production
+    url: https://thrill.house
+  only:
+  - master
