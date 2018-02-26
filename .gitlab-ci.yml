@@ -6,6 +6,8 @@ deploy_staging:
   script:
     - echo "Deploy to server"
     - rsync -av --delete --exclude-from .rsyncexclude ./ /var/www/thrill.house
+    - chown -R www-data:www-data /var/www/thrill.house
+    - chmod -R 0755 /var/www/thrill.house
   environment:
     name: production
     url: https://thrill.house
