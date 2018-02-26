@@ -1,0 +1,36 @@
+html {
+	height: 100vh;
+	width: 100vw;
+}
+
+body {
+	background: url('thrillhouse.gif') no-repeat center;
+	background-size: cover;
+	width: 100%;
+	height: 100vh;
+	padding: 0;
+	margin: 0;
+	display: grid;
+	grid-template-rows: 1fr 1fr;
+}
+
+article {
+	align-self: end;
+	padding: 2rem;
+}
+
+h1, h2, h3, p, li {
+	font-family: Courier, monospace;
+	text-align: center;
+	color: white;
+}
+
+ul, ol {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	color: white;
+}
