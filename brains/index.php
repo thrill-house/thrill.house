@@ -24,7 +24,7 @@
 			</div>
 		</header>
 		<main id="main" class="border-t-2 border-indigo-dark py-4">
-			<? if ($_GET['medienboard'] === ''): ?>
+			<? if (array_key_exists('medienboard', $_GET)): ?>
 				<div id="mbbb" class="lg:flex flex-wrap my-8 mx-4 bg-white text-black rounded-lg shadow-lg">
 					<div class="p-8 pb-0 md:p-8 md:pt-6 md:w-1/2 md:float-left lg:p-8 lg:w-1/3">
 						<img src="img/logos/medienboard.png" alt="Medienboard BerlinBrandenburg">
