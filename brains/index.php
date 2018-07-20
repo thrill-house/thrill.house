@@ -24,7 +24,7 @@
 			</div>
 		</header>
 		<main id="main" class="border-t-2 border-indigo-dark py-4">
-			<? if (array_key_exists('medienboard', $_GET)): ?>
+			<?php if (array_key_exists('medienboard', $_GET)): ?>
 				<div id="mbbb" class="lg:flex flex-wrap my-8 mx-4 bg-white text-black rounded-lg shadow-lg">
 					<div class="p-8 pb-0 md:p-8 md:pt-6 md:w-1/2 md:float-left lg:p-8 lg:w-1/3">
 						<img src="img/logos/medienboard.png" alt="Medienboard BerlinBrandenburg">
@@ -34,7 +34,7 @@
 						<p class="mt-2">Wir von <strong class="italic">Thrillhouse</strong> freuen uns darauf Ihnen unser neues Browserspiel <em>BR<strong>AI</strong>NS</em> für Ihre Überlegungen zur Finanzierung einer <strong class="italic">New Media Förderung</strong> vorzustellen, um die Entwicklung und Einführung unseres spannenden Spiels zu unterstützen. Für Fragen stehen wir Ihnen jederzeit gerne zur Verfügung. Sie erreichen <strong class="italic">Mike Pierce</strong> per E-Mail unter <strong class="italic"><a href="mailto:welcome@thrill.house" class="text-red-light">welcome@thrill.house</a></strong> oder telefonisch unter <strong class="italic"><a href="tel:+49 176 7029 5102" class="text-red-light">+49 176 7029 5102</a></strong>.</p>
 					</div>
 				</div>
-			<? endif ?>
+			<?php endif ?>
 			<div id="concept" class="md:flex">
 				<div class="p-4 md:w-1/2 lg:w-1/3">
 					<h3 class="text-3xl text-orange font-mono border-b border-orange-lighter">The concept</h3>
