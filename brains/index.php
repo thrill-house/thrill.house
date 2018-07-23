@@ -52,7 +52,7 @@
 				</div>
 				<div class="p-4 md:w-1/2 lg:w-2/3">
 					<figure>
-						<img src="img/screenshots/screenshot.jpg" alt="Screenshot in progress" class="rounded-lg shadow-lg">
+						<img src="img/screenshots/teasers.jpg" alt="Screenshot in progress" class="rounded-lg shadow-lg">
 						<figcaption class="text-right italic text-sm">In progress design drafts.</figcaption>
 					</figure>
 				</div>
