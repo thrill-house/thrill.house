@@ -148,7 +148,7 @@
 						<li><strong class="italic">Graduated in 2005</strong> from the University of Wollongong, Australia, with a degree in Internet Science &amp; Technology.</li>
 						<li><strong class="italic">13 years experience</strong> in professional web development, technical project management and digital product launch.</li>
 						<li><strong class="italic">Cofounder and Technical Director</strong> of Berlin web agency <strong class="italic"><a href="https://someoneandsons.net/" class="text-indigo">Someone &amp; Sons</a></strong> since 2012.</li>
-						<li>Passionate about collaborative design, board games and — obviously — his dog <strong class="italic">Athos</strong>. This is his first foray into game development.</li>
+						<li>Passionate about <strong class="italic">collaborative design</strong>, board games and — obviously — his dog <strong class="italic">Athos</strong>. This is his first foray into game development.</li>
 					</ul>
 				</div>
 				<div class="p-4 md:w-1/2 xl:w-1/3">
@@ -159,7 +159,7 @@
 						<li><strong class="italic">Graduated in 2017</strong> from the University of Applied Sciences, Berlin, with a degree in Game Design.</li>
 						<li><strong class="italic">10 years experience</strong> in professional web development and IT, with over 5 years of experience in game design.</li>
 						<li><strong class="italic">Cofounder and Lead Designer</strong> of Berlin studio <strong class="italic"><a href="https://komorebi-interactive.de/" class="text-indigo">komorebi interactive</a></strong> since 2017.</li>
-						<li>Focussed on concept creation, analysis of game mechanics and logic, and formulation of functionality guided by a technical perspective.</li>
+						<li>Focussed on <strong class="italic">concept creation</strong>, analysis of game mechanics and logic, and <strong class="italic">formulation of functionality</strong> guided by a technical perspective.</li>
 					</ul>
 				</div>
 				<div class="p-4 md:w-1/2 xl:w-1/3">
@@ -170,7 +170,7 @@
 						<li><strong class="italic">Graduated in 2017</strong> from the University of Applied Sciences, Berlin with a degree in Game Design.</li>
 						<li><strong class="italic">Graduated in 2013</strong> from the Technical University, Berlin, with a degree in Computer Science.</li>
 						<li><strong class="italic">Working in collaboration</strong> with her business partner at <strong class="italic"><a href="#" class="text-indigo">COMPANY</a></strong> on releasing their first first commercial game.</li>
-						<li>Main focus lies within Game system design and Narrative design, drawing inspiration from the lesser known events from human history.</li>
+						<li>Main focus lies within <strong class="italic">Game system design</strong> and <strong class="italic">Narrative design</strong>, drawing inspiration from the lesser known events from human history.</li>
 					</ul>
 				</div>
 				<div class="p-4 md:w-1/2 xl:w-1/3">
@@ -180,15 +180,18 @@
 					<ul class="mt-2">
 						<li><strong class="italic">Graduated in 2018</strong> from the University of Applied Sciences, Berlin with a degree in Game Design.</li>
 						<li><strong class="italic">Work experience</strong> includes time at Germany’s largest browser game developer, working on INSERT.</li>
-						<li>Main strengths lie in the areas of ​​design thinking and problem solving, as well as an eye for detail in the area of game mechanics and user behaviour.</li>
+						<li>Main strengths lie in the areas of <strong class="italic">​​Design thinking</strong> and <strong class="italic">Problem solving</strong>, as well as an eye for detail in the area of game mechanics and user behaviour.</li>
 					</ul>
 				</div>
 				<div class="p-4 md:w-1/2 xl:w-1/3">
-					<img src="img/icons/team.png" alt="Adam Ferns" class="rounded-lg shadow-lg">
+					<img src="img/team/adam.jpg" alt="Adam Ferns" class="rounded-lg shadow-lg">
 					<h4 class="mt-2 text-xl text-orange font-mono border-b border-orange-lighter">Adam Ferns</h3>
 					<h5 class="mt-2 pb-2 text-base text-orange italic">Interface &amp; interaction design</h5>
+					
 					<ul class="mt-2">
-						<li>Lipsum</li>
+						<li><strong class="italic">Graduated in 2002</strong> from from London Guildhall University with BSc (Hons) in Communications with Audio Visual Production and Multimedia Systems.</li>
+						<li><strong class="italic">More than 15 years experience</strong> working in London, Melbourne and Berlin as art director, digital designer, and UX designer for an array of large and small clients, in Fashion, Music, Tech, Health, Advertising and Entertainment.</li>
+						<li>With a great love of the <strong class="italic">arts</strong>, <strong class="italic">nature</strong>, and <strong class="italic">emerging technologies</strong>, he is most interested in the intersection of these three fields, and their ability to shape society for the better.</li>
 					</ul>
 				</div>
 				<div class="p-4 w-full">
@@ -216,10 +219,10 @@
 		</main>
 		<footer id="footer" class="border-t-2 border-indigo-dark md:flex">
 			<div class="w-3/5 md:w-4/5 lg:w-3/4 p-4">
-				<h6 class="text-xs italic">This exciting interactive experience is brought to you by <a href="https://thrill.house/" class="text-indigo">Thrillhouse OÜ</a></h6>
+				<h6 class="text-xs italic font-light">BR<strong>AI</strong>NS is brought to you by <a href="https://thrill.house/" class="text-indigo">Thrillhouse OÜ</a></h6>
 			</div>
 			<div class="w-1/2 md:w-1/5 lg:w-1/4 p-4 text-center">
-				<h6>Support and funding provided by:</h6>
+				<h6 class="text-xs italic font-light">Support and funding provided by:</h6>
 				<a href="https://www.dash.org/"><img src="img/logos/dash.png" alt="Dash" class="mt-2"></a>
 			</div>
 		</footer>
