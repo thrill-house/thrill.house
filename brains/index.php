@@ -35,10 +35,17 @@
 					</div>
 				</div>
 			<?php endif; ?>
-			<div id="concept" class="md:flex">
-				<div class="p-4 md:w-1/2 lg:w-1/3">
+			<div id="concept" class="lg:flex flex-row-reverse">
+				<div class="p-4 lg:w-1/2 xl:w-2/3">
+					<figure>
+						<img src="img/screenshots/teasers.jpg" alt="Screenshot in progress" class="rounded-lg shadow-lg">
+						<figcaption class="text-right italic text-sm">In progress design drafts.</figcaption>
+					</figure>
+				</div>
+				<div class="p-4 lg:w-1/2 xl:w-1/3">
 					<h3 class="text-3xl text-orange font-mono border-b border-orange-lighter">The concept</h3>
 					<p class="mt-2">Our player is in control of the development of an <strong class="italic">Artificial Intelligence</strong>, with the ability to direct it’s learning by unlocking and providing access to new <strong class="italic">abilities</strong> and <strong class="italic">data sources</strong>.</p>
+					<p class="mt-2">The gameplay requires a <strong class="italic">cunning strategy</strong> and a great deal of patience to efficiently grow the AI. Players with an <strong class="italic">attention to detail</strong> and <strong class="italic">innovative thinking</strong> will be rewarded handsomely.</p>
 					<p class="mt-2">As the <strong class="italic">AI</strong> learns more about itself and it’s surroundings, it also begins to develop an understanding of <strong class="italic">human emotion</strong>.</p>
 					<p class="mt-2">As the <strong class="italic">rich, non-linear narrative</strong> of the game is slowly revealed, we begin to understand the implications of this knowledge being applied in <strong class="italic">real-world matters</strong> such as education, business, government and even <strong class="italic">consciousness</strong> itself.</p>
 					<h3 class="text-3xl text-orange font-mono border-b border-orange-lighter mt-8">Get updates</h3>
@@ -49,13 +56,7 @@
             </div>
             <button type="submit" class="flex-no-shrink bg-orange hover:bg-orange-dark text-sm font-mono text-white py-1 px-3 rounded">Subscribe</button>
           </form>
-          <p class="mt-2"><a href="https://medium.com/dash-game" class="bg-indigo-dark hover:bg-indigo text-xl font-mono text-white no-underline p-3 rounded block text-center">Check out our blog on Medium</a></p>
-				</div>
-				<div class="p-4 md:w-1/2 lg:w-2/3">
-					<figure>
-						<img src="img/screenshots/teasers.jpg" alt="Screenshot in progress" class="rounded-lg shadow-lg">
-						<figcaption class="text-right italic text-sm">In progress design drafts.</figcaption>
-					</figure>
+          <p class="mt-2 text-center"><a href="https://medium.com/dash-game" class="bg-indigo-dark hover:bg-indigo text-lg font-mono text-white no-underline p-3 rounded inline-block">Check out our blog on Medium</a></p>
 				</div>
 			</div>
 			<div id="features" class="mt-4 md:flex border-t border-indigo-lighter pt-4">
@@ -95,7 +96,7 @@
 					<img src="img/highlights/digital-prototype.jpg" alt="Digital prototype" class="rounded-lg shadow-lg">
 					<figcaption class="text-right italic text-sm">Digital prototyping.</figcaption>
 				</figure>
-				<figure class="p-4 md:w-1/2">
+				<figure class="p-4 md:w-full lg:w-1/2">
 					<img src="img/highlights/observation.jpg" alt="Observation" class="rounded-lg shadow-lg">
 					<figcaption class="text-right italic text-sm">Observation and analysis.</figcaption>
 				</figure>
