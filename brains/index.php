@@ -115,14 +115,14 @@
 						<dt class="mt-2 font-bold"><span class="line-through">Mechanics</span> <em class="text-xs bg-green py-1 px-2 rounded-full text-white font-mono">Complete: May, 2018</em></dt>
 						<dd class="ml-4">Tested with analogue and digital prototypes, documented and specifications recorded.</dd>
 						<dt class="mt-2 font-bold">Story &amp; Script <em class="text-xs bg-blue py-1 px-2 rounded-full text-white font-mono">In progress: Q2 - Q3, 2018</em></dt>
-						<dd class="ml-4">Story told in 2 acts. Character arcs defined, dialogue writing in progress.</dd><dt class="font-bold">Interface design <em class="text-xs bg-blue py-1 px-2 rounded-full text-white font-mono">In progress: Q2 - Q4, 2018</em></dt>
+						<dd class="ml-4">Story told in 2 acts. Character arcs defined, dialogue writing in progress.</dd>
+						<dt class="mt-2 font-bold">Interface design <em class="text-xs bg-blue py-1 px-2 rounded-full text-white font-mono">In progress: Q2 - Q4, 2018</em></dt>
 						<dd class="ml-4">Look and feel defined, static layouts taking shape, interaction prototyping poised to begin.</dd>
-						
 					</dl>
 				</div>
 				<div class="p-4 pt-0 md:pt-4 md:w-1/2">
 					<dl class="mt-2">
-						<dt class="mt-2 font-bold">Development <em class="text-xs bg-blue py-1 px-2 rounded-full text-white font-mono">In progress: Q2 - Q4, 2018</em></dt>
+						<dt class="font-bold">Development <em class="text-xs bg-blue py-1 px-2 rounded-full text-white font-mono">In progress: Q2 - Q4, 2018</em></dt>
 						<dd class="ml-4">Front-end component structures defined. Basic functional prototype is up and running.</dd>
 						<dt class="mt-2 font-bold">User testing</dt>
 						<dd class="ml-4">Projected for Q4, 2018</dd>
