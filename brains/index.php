@@ -194,7 +194,7 @@
 					
 					<ul class="mt-2">
 						<li><strong class="italic">Graduated in 2002</strong> from from London Guildhall University with BSc (Hons) in Communications with Audio Visual Production and Multimedia Systems.</li>
-						<li><strong class="italic">More than 15 years experience</strong> working in London, Melbourne and Berlin as art director, digital designer, and UX designer for an array of large and small clients, in Fashion, Music, Tech, Health, Advertising and Entertainment. Samples of his work can be found on <a href="http://adamferns.com/" class="text-indigo">his website</>.</li>
+						<li><strong class="italic">More than 15 years experience</strong> working in London, Melbourne and Berlin as art director, digital designer, and UX designer for an array of large and small clients, in Fashion, Music, Tech, Health, Advertising and Entertainment. Samples of his work can be found on <a href="http://adamferns.com/" class="text-indigo">his website</a>.</li>
 						<li>With a great love of the <strong class="italic">arts</strong>, <strong class="italic">nature</strong>, and <strong class="italic">emerging technologies</strong>, he is most interested in the intersection of these three fields, and their ability to shape society for the better.</li>
 					</ul>
 				</div>
