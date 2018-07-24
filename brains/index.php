@@ -183,7 +183,7 @@
 					<h5 class="mt-2 pb-2 text-base text-orange italic">Game design &amp; quality assurance</h5>
 					<ul class="mt-2">
 						<li><strong class="italic">Graduating in 2019</strong> from the University of Applied Sciences, Berlin with a degree in Game Design.</li>
-						<li><strong class="italic">Work experience</strong> includes time at Germany’s largest browser game developer, working on INSERT.</li>
+						<li><strong class="italic">Work experience</strong> includes time at Germany’s largest browser game developer, working on games with audiences in the millions.</li>
 						<li>Main strengths lie in the areas of <strong class="italic">​​Design thinking</strong> and <strong class="italic">Problem solving</strong>, as well as an eye for detail in the area of game mechanics and user behaviour.</li>
 					</ul>
 				</div>
