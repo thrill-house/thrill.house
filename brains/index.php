@@ -65,7 +65,7 @@
 				<div class="p-4 md:w-2/3">
 					<h3 class="text-3xl text-orange font-mono border-b border-orange-lighter">Unique features</h3>
 					<p class="mt-2"><strong class="italic">BRAINS</strong> combines elements of the proven genre of <strong class="italic">idle games</strong> with the emerging technological revolution that is <strong class="italic">cryptocurrency</strong> and <strong class="italic">blockchain</strong>.</p>
-					<p class="mt-2">Unlike most idle clickers, a central component of the game is the <strong class="italic">evocative story</strong> following the exploits of the human and synthetic characters integral in the development of the AI, which unfolds in different variations based on the <strong class="italic">player’s choices</strong>.</p>
+					<p class="mt-2">Unlike most idle games, a central component of the gameplay is the <strong class="italic">evocative story</strong> following the exploits of the human and synthetic characters integral in the development of the AI, which unfolds in different variations based on the <strong class="italic">player’s choices</strong>.</p>
 					<p class="mt-2">Players can not only compete on <strong class="italic">global leaderboards</strong> through the decentralised data storage of the blockchain, they can even <strong class="italic">interact</strong> by trading with each other for <strong class="italic">cryptocurrency</strong>.</p>
 					<h3 class="text-3xl text-orange mt-4 font-mono border-b border-orange-lighter">Technology</h3>
 					<ul class="mt-2">
