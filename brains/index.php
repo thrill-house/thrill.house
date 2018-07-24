@@ -101,7 +101,7 @@
 			</div>
 			<div id="roadmap" class="mt-4 md:flex flex-wrap border-t border-indigo-lighter pt-4">
 				<div class="p-4 pb-0 w-full">
-					<h3 class="text-3xl text-orange font-mono border-b border-orange-lighter">Roadmap <em class="text-xs bg-orange py-1 px-2 rounded-full text-white align-middle font-mono">Last update: 19.07.2018</em></h3>
+					<h3 class="text-3xl text-orange font-mono border-b border-orange-lighter">Roadmap <em class="text-xs bg-orange py-1 px-2 rounded-full text-white align-middle font-mono">Last update: 24.07.2018</em></h3>
 				</div>
 				<div class="p-4 pb-0 md:pb-4 md:w-1/2">
 					<dl class="mt-2">
@@ -114,16 +114,18 @@
 						<dt class="mt-2 font-bold"><span class="line-through">Mechanics</span> <em class="text-xs bg-green py-1 px-2 rounded-full text-white font-mono">Complete: May, 2018</em></dt>
 						<dd class="ml-4">Tested with analogue and digital prototypes, documented and specifications recorded.</dd>
 						<dt class="mt-2 font-bold">Story &amp; Script <em class="text-xs bg-blue py-1 px-2 rounded-full text-white font-mono">In progress: Q2 - Q3, 2018</em></dt>
-						<dd class="ml-4">Story told in 2 acts. Character arcs defined, dialogue writing in progress.</dd>
+						<dd class="ml-4">Story told in 2 acts. Character arcs defined, dialogue writing in progress.</dd><dt class="font-bold">Interface design <em class="text-xs bg-blue py-1 px-2 rounded-full text-white font-mono">In progress: Q2 - Q4, 2018</em></dt>
+						<dd class="ml-4">Look and feel defined, static layouts taking shape, interaction prototyping poised to begin.</dd>
+						
 					</dl>
 				</div>
 				<div class="p-4 pt-0 md:pt-4 md:w-1/2">
 					<dl class="mt-2">
-						<dt class="font-bold">Interface design <em class="text-xs bg-blue py-1 px-2 rounded-full text-white font-mono">In progress: Q2 - Q4, 2018</em></dt>
-						<dd class="ml-4">Look and feel defined, static layouts taking shape, interaction prototyping poised to begin.</dd>
 						<dt class="mt-2 font-bold">Development <em class="text-xs bg-blue py-1 px-2 rounded-full text-white font-mono">In progress: Q2 - Q4, 2018</em></dt>
-						<dd class="ml-4">Front-end component structures defined. Basic but functional prototype is up and running.</dd>
+						<dd class="ml-4">Front-end component structures defined. Basic functional prototype is up and running.</dd>
 						<dt class="mt-2 font-bold">User testing</dt>
+						<dd class="ml-4">Projected for Q4, 2018</dd>
+						<dt class="mt-2 font-bold">Gameplay balancing</dt>
 						<dd class="ml-4">Projected for Q4, 2018</dd>
 						<dt class="mt-2 font-bold">Quality assurance</dt>
 						<dd class="ml-4">Projected for Q4, 2018</dd>
@@ -154,7 +156,7 @@
 				<div class="p-4 md:w-1/2 xl:w-1/3">
 					<img src="img/team/sandra.jpg" alt="Sandra Schmidt" class="rounded-lg shadow-lg">
 					<h4 class="mt-2 text-xl text-orange font-mono border-b border-orange-lighter">Sandra Schmidt</h3>
-					<h5 class="mt-2 pb-2 text-base text-orange italic">Game design, User testing</h5>
+					<h5 class="mt-2 pb-2 text-base text-orange italic">Game &amp; UX design</h5>
 					<ul class="mt-2">
 						<li><strong class="italic">Graduated in 2017</strong> from the University of Applied Sciences, Berlin, with a degree in Game Design.</li>
 						<li><strong class="italic">10 years experience</strong> in professional web development and IT, with over 5 years of experience in game design.</li>
@@ -165,20 +167,20 @@
 				<div class="p-4 md:w-1/2 xl:w-1/3">
 					<img src="img/team/kerstin.jpg" alt="Kerstin Schütt" class="rounded-lg shadow-lg">
 					<h4 class="mt-2 text-xl text-orange font-mono border-b border-orange-lighter">Kerstin Schütt</h3>
-					<h5 class="mt-2 pb-2 text-base text-orange italic">Game design, Narrative design</h5>
+					<h5 class="mt-2 pb-2 text-base text-orange italic">Game &amp; narrative design</h5>
 					<ul class="mt-2">
 						<li><strong class="italic">Graduated in 2017</strong> from the University of Applied Sciences, Berlin with a degree in Game Design.</li>
 						<li><strong class="italic">Graduated in 2013</strong> from the Technical University, Berlin, with a degree in Computer Science.</li>
-						<li><strong class="italic">Working in collaboration</strong> with her business partner at <strong class="italic"><a href="#" class="text-indigo">COMPANY</a></strong> on releasing their first first commercial game.</li>
+						<li><strong class="italic">Working in collaboration</strong> with her business partner at <strong class="italic"><a href="http://www.twisted-ramble.com/" class="text-indigo">Twisted Ramble</a></strong> on releasing their first commercial game.</li>
 						<li>Main focus lies within <strong class="italic">Game system design</strong> and <strong class="italic">Narrative design</strong>, drawing inspiration from the lesser known events from human history.</li>
 					</ul>
 				</div>
 				<div class="p-4 md:w-1/2 xl:w-1/3">
 					<img src="img/team/dario.jpg" alt="Dario Tausch" class="rounded-lg shadow-lg">
 					<h4 class="mt-2 text-xl text-orange font-mono border-b border-orange-lighter">Dario Tausch</h3>
-					<h5 class="mt-2 pb-2 text-base text-orange italic">Game design, Quality assurance</h5>
+					<h5 class="mt-2 pb-2 text-base text-orange italic">Game design &amp; quality assurance</h5>
 					<ul class="mt-2">
-						<li><strong class="italic">Graduated in 2018</strong> from the University of Applied Sciences, Berlin with a degree in Game Design.</li>
+						<li><strong class="italic">Graduating in 2019</strong> from the University of Applied Sciences, Berlin with a degree in Game Design.</li>
 						<li><strong class="italic">Work experience</strong> includes time at Germany’s largest browser game developer, working on INSERT.</li>
 						<li>Main strengths lie in the areas of <strong class="italic">​​Design thinking</strong> and <strong class="italic">Problem solving</strong>, as well as an eye for detail in the area of game mechanics and user behaviour.</li>
 					</ul>
