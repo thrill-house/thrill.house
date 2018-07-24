@@ -42,13 +42,14 @@
 					<p class="mt-2">As the <strong class="italic">AI</strong> learns more about itself and it’s surroundings, it also begins to develop an understanding of <strong class="italic">human emotion</strong>.</p>
 					<p class="mt-2">As the <strong class="italic">rich, non-linear narrative</strong> of the game is slowly revealed, we begin to understand the implications of this knowledge being applied in <strong class="italic">real-world matters</strong> such as education, business, government and even <strong class="italic">consciousness</strong> itself.</p>
 					<h3 class="text-3xl text-orange font-mono border-b border-orange-lighter mt-8">Get updates</h3>
-					<form action="https://house.us17.list-manage.com/subscribe/post?u=eaeade5a29735d117c7e64878&amp;amp;id=b2d248551c" method="post" target="_blank" class="flex mt-4">
+					<form action="https://house.us17.list-manage.com/subscribe/post?u=eaeade5a29735d117c7e64878&amp;amp;id=b2d248551c" method="post" target="_blank" class="flex pb-4 my-4 border-b border-orange-lighter">
             <input type="email" name="EMAIL" value="" placeholder="Your Email Address" class="shadow appearance-none border rounded w-full mr-4 py-2 px-3 text-grey-darker leading-tight" required>
             <div aria-hidden="true" class="absolute" style="left: -5000px;">
               <input type="text" name="b_3198ee66c8baf4d60aa2fee6b_d60e1830e8" tabindex="-1" value="">
             </div>
-            <button type="submit" class="flex-no-shrink bg-orange hover:bg-orange-dark text-sm text-white py-1 px-3 rounded">Subscribe</button>
+            <button type="submit" class="flex-no-shrink bg-orange hover:bg-orange-dark text-sm font-mono text-white py-1 px-3 rounded">Subscribe</button>
           </form>
+          <p class="mt-2"><a href="https://medium.com/dash-game" class="bg-indigo-dark hover:bg-indigo text-xl font-mono text-white no-underline p-3 rounded block text-center">Check out our blog on Medium</a></p>
 				</div>
 				<div class="p-4 md:w-1/2 lg:w-2/3">
 					<figure>
