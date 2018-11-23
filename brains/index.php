@@ -46,7 +46,7 @@
 					<h3 class="text-3xl text-orange font-mono border-b border-orange-lighter">The concept</h3>
 					<p class="mt-2">Our player is in control of the development of an <strong class="italic">Artificial Intelligence</strong>, with the ability to direct it’s learning by unlocking and providing access to new <strong class="italic">abilities</strong> and <strong class="italic">data sources</strong>.</p>
 					<p class="mt-2">The gameplay requires a <strong class="italic">cunning strategy</strong> and a great deal of patience to efficiently grow the AI. Players with an <strong class="italic">attention to detail</strong> and <strong class="italic">innovative thinking</strong> will be rewarded handsomely.</p>
-					<p class="mt-2">As the <strong class="italic">AI</strong> learns more about itself and it’s surroundings, it also begins to develop an understanding of <strong class="italic">human emotion</strong>.</p>
+					<p class="mt-2">As the <strong class="italic">AI</strong> learns more about itself and its surroundings, it also begins to develop an understanding of <strong class="italic">human emotion</strong>.</p>
 					<p class="mt-2">As the <strong class="italic">rich, non-linear narrative</strong> of the game is slowly revealed, we begin to understand the implications of this knowledge being applied in <strong class="italic">real-world matters</strong> such as education, business, government and even <strong class="italic">consciousness</strong> itself.</p>
 					<h3 class="text-3xl text-orange font-mono border-b border-orange-lighter mt-8">Get updates</h3>
 					<form action="https://house.us17.list-manage.com/subscribe/post?u=eaeade5a29735d117c7e64878&amp;amp;id=b2d248551c" method="post" target="_blank" class="flex pb-4 my-4 border-b border-orange-lighter">
@@ -103,7 +103,7 @@
 			</div>
 			<div id="roadmap" class="mt-4 md:flex flex-wrap border-t border-indigo-lighter pt-4">
 				<div class="p-4 pb-0 w-full">
-					<h3 class="text-3xl text-orange font-mono border-b border-orange-lighter">Roadmap <em class="text-xs bg-orange py-1 px-2 rounded-full text-white align-middle font-mono">Last update: 02.11.2018</em></h3>
+					<h3 class="text-3xl text-orange font-mono border-b border-orange-lighter">Roadmap <em class="text-xs bg-orange py-1 px-2 rounded-full text-white align-middle font-mono">Last update: 12.11.2018</em></h3>
 				</div>
 				<div class="p-4 pb-0 md:pb-4 md:w-1/2">
 					<dl class="mt-2">
@@ -126,15 +126,15 @@
 						<dt class="font-bold">Development <em class="text-xs bg-blue py-1 px-2 rounded-full text-white font-mono">In progress</em></dt>
 						<dd class="ml-4">Front-end component structures defined. Basic functional prototype is up and running.</dd>
 						<dt class="mt-2 font-bold">User testing</dt>
-						<dd class="ml-4">Projected for Q1, 2018</dd>
+						<dd class="ml-4">Q2, 2019</dd>
 						<dt class="mt-2 font-bold">Gameplay balancing</dt>
-						<dd class="ml-4">Projected for Q1, 2018</dd>
+						<dd class="ml-4">Q2, 2019</dd>
 						<dt class="mt-2 font-bold">Quality assurance</dt>
-						<dd class="ml-4">Projected for Q1, 2018</dd>
+						<dd class="ml-4">Q3, 2019</dd>
 						<dt class="mt-2 font-bold">Marketing and community</dt>
-						<dd class="ml-4">Projected for Q2, 2018</dd>
+						<dd class="ml-4">Q3, 2019</dd>
 						<dt class="mt-2 font-bold">Launch</dt>
-						<dd class="ml-4">Projected for Q2, 2019</dd>
+						<dd class="ml-4">Q3, 2019</dd>
 					</dl>
 				</div>
 			</div>
