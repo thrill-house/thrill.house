@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>BRAINS — brought to you by Thrillhouse OÜ</title>
+		<title>Project EMPATIC — brought to you by Thrillhouse OÜ</title>
 		<link href="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css" rel="stylesheet">
 		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-113621922-1"></script>
 		<script>
@@ -19,7 +19,7 @@
 				<img src="img/icons/game.png" alt="DASH Game">
 			</div>
 			<div class="p-4 pt-0 md:pt-4  md:w-3/4">
-				<h1 class="text-5xl font-mono font-hairline text-orange border-b border-orange-lighter">BR<span class="font-bold">AI</span>NS</h1>
+				<h1 class="text-5xl font-mono font-hairline text-orange border-b border-orange-lighter">Project EMP<span class="font-bold">A</span>T<span class="font-bold">I</span>C</h1>
 				<h2 class="mt-4">… is the working title for an upcoming browser-based idle game exploring the possibilities and consequences of humankind’s headlong dive into the development of Artificial Intelligence.</h2>
 			</div>
 		</header>
@@ -31,7 +31,7 @@
 					</div>
 					<div class="p-8 pt-4 lg:p-8 lg:w-2/3">
 						<h3 class="text-3xl text-red-light font-mono border-b border-red-lighter">Willkommen Medienboard BerlinBrandenburg!</h3>
-						<p class="mt-2">Wir von <strong class="italic">Thrillhouse</strong> freuen uns darauf Ihnen unser neues Browserspiel <em>BR<strong>AI</strong>NS</em> für Ihre Überlegungen zur Finanzierung einer <strong class="italic">New Media Förderung</strong> vorzustellen, um die Entwicklung und Einführung unseres spannenden Spiels zu unterstützen. Für Fragen stehen wir Ihnen jederzeit gerne zur Verfügung. Sie erreichen <strong class="italic">Mike Pierce</strong> per E-Mail unter <strong class="italic"><a href="mailto:welcome@thrill.house" class="text-red-light">welcome@thrill.house</a></strong> oder telefonisch unter <strong class="italic"><a href="tel:+49 176 7029 5102" class="text-red-light">+49 176 7029 5102</a></strong>.</p>
+						<p class="mt-2">Wir von <strong class="italic">Thrillhouse</strong> freuen uns darauf Ihnen unser neues Browserspiel <em>Project EMP<strong>A</strong>T<strong>I</strong>C</em> für Ihre Überlegungen zur Finanzierung einer <strong class="italic">New Media Förderung</strong> vorzustellen, um die Entwicklung und Einführung unseres spannenden Spiels zu unterstützen. Für Fragen stehen wir Ihnen jederzeit gerne zur Verfügung. Sie erreichen <strong class="italic">Mike Pierce</strong> per E-Mail unter <strong class="italic"><a href="mailto:welcome@thrill.house" class="text-red-light">welcome@thrill.house</a></strong> oder telefonisch unter <strong class="italic"><a href="tel:+49 176 7029 5102" class="text-red-light">+49 176 7029 5102</a></strong>.</p>
 					</div>
 				</div>
 			<?php endif; ?>
@@ -44,7 +44,9 @@
 				</div>
 				<div class="p-4 lg:w-1/2 xl:w-1/3">
 					<h3 class="text-3xl text-orange font-mono border-b border-orange-lighter">The concept</h3>
-					<p class="mt-2">Our player is in control of the development of an <strong class="italic">Artificial Intelligence</strong>, with the ability to direct it’s learning by unlocking and providing access to new <strong class="italic">abilities</strong> and <strong class="italic">data sources</strong>.</p>
+					<p class="mt-2">Our player is in control of the development of an <strong class="italic">Artificial Intelligence</strong>. Its codename?</p>
+					<p class="text-xl mt-2"><strong class="italic">Project EMPATIC</strong>:<br><strong>E</strong>motionally <strong>M</strong>ature <strong>P</strong>aradigm <strong>A</strong>nalyst <strong>T</strong>oward <strong>I</strong>nter<strong>C</strong>ommunication.</p>
+					<p class="mt-2">The player has the ability to direct the AI's learning by unlocking and providing access to new <strong class="italic">abilities</strong> and <strong class="italic">data sources</strong>.</p>
 					<p class="mt-2">The gameplay requires a <strong class="italic">cunning strategy</strong> and a great deal of patience to efficiently grow the AI. Players with an <strong class="italic">attention to detail</strong> and <strong class="italic">innovative thinking</strong> will be rewarded handsomely.</p>
 					<p class="mt-2">As the <strong class="italic">AI</strong> learns more about itself and its surroundings, it also begins to develop an understanding of <strong class="italic">human emotion</strong>.</p>
 					<p class="mt-2">As the <strong class="italic">rich, non-linear narrative</strong> of the game is slowly revealed, we begin to understand the implications of this knowledge being applied in <strong class="italic">real-world matters</strong> such as education, business, government and even <strong class="italic">consciousness</strong> itself.</p>
@@ -65,7 +67,7 @@
 				</div>
 				<div class="p-4 md:w-2/3">
 					<h3 class="text-3xl text-orange font-mono border-b border-orange-lighter">Unique features</h3>
-					<p class="mt-2"><strong class="italic">BRAINS</strong> combines elements of the proven genre of <strong class="italic">idle games</strong> with the emerging technological revolution that is <strong class="italic">cryptocurrency</strong> and <strong class="italic">blockchain</strong>.</p>
+					<p class="mt-2"><strong class="italic">Project EMPATIC</strong> combines elements of the proven genre of <strong class="italic">idle games</strong> with the emerging technological revolution that is <strong class="italic">cryptocurrency</strong> and <strong class="italic">blockchain</strong>.</p>
 					<p class="mt-2">Unlike most idle games, a central component of the gameplay is the <strong class="italic">evocative story</strong> following the exploits of the human and synthetic characters integral in the development of the AI, which unfolds in different variations based on the <strong class="italic">player’s choices</strong>.</p>
 					<p class="mt-2">Players can not only compete on <strong class="italic">global leaderboards</strong> through the decentralised data storage of the blockchain, they can even <strong class="italic">interact</strong> by trading with each other for <strong class="italic">cryptocurrency</strong>.</p>
 					<h3 class="text-3xl text-orange mt-4 font-mono border-b border-orange-lighter">Technology</h3>
@@ -223,7 +225,7 @@
 		</main>
 		<footer id="footer" class="border-t-2 border-indigo-dark md:flex">
 			<div class="w-3/5 md:w-4/5 lg:w-3/4 p-4">
-				<h6 class="text-xs italic font-light">BR<strong>AI</strong>NS is brought to you by <a href="https://thrill.house/" class="text-indigo">Thrillhouse OÜ</a></h6>
+				<h6 class="text-xs italic font-light">Project EMPATIC is brought to you by <a href="https://thrill.house/" class="text-indigo">Thrillhouse OÜ</a></h6>
 			</div>
 			<div class="w-1/2 md:w-1/5 lg:w-1/4 p-4 text-center">
 				<h6 class="text-xs italic font-light">Support and funding provided by:</h6>
