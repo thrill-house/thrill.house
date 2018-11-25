@@ -1,8 +1,0 @@
-//301 Redirect Entire Directory
-RedirectMatch 301 /brains(.*) /project-empatic/$1
-
-//Prevent viewing of .htaccess file
-<Files .htaccess>
-order allow,deny
-deny from all
-</Files>
