@@ -1,36 +1,71 @@
-html {
-	height: 100vh;
-	width: 100vw;
-}
+@import url("https://fonts.googleapis.com/css2?family=Chivo:ital,wght@0,300;1,400&display=swap");
 
 body {
-	background: url('../img/thrillhouse.gif') no-repeat center;
-	background-size: cover;
-	width: 100%;
-	height: 100vh;
-	padding: 0;
-	margin: 0;
-	display: grid;
-	grid-template-rows: 1fr 1fr;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+  justify-items: center;
+  font-family: "Chivo", sans-serif;
+  background-color: white;
+  color: black;
 }
 
-article {
-	align-self: end;
-	padding: 2rem;
+* {
+  margin: 0;
+  box-sizing: border-box;
 }
 
-h1, h2, h3, p, li {
-	font-family: Courier, monospace;
-	text-align: center;
-	color: white;
+#header {
+  align-self: center;
+  padding: 2rem;
+  width: 24rem;
 }
 
-ul, ol {
-	list-style: none;
-	margin: 0;
-	padding: 0;
+#name {
+  font-style: italic;
+  font-weight: 400;
+  text-transform: uppercase;
+  font-size: 2.25rem;
+}
+
+#contact {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 1.25rem;
+  margin-top: 2rem;
+}
+
+#address {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 1rem;
+  margin-top: 2rem;
+}
+
+#notice {
+  font-style: normal;
+  font-weight: 300;
+  font-size: 0.75rem;
+  margin-top: 3rem;
+}
+
+#main {
+  display: block;
+  padding: 0.25rem;
+}
+
+#logo {
+  display: block;
+  object-fit: contain;
+  height: auto;
+  width: 100%;
+  max-width: 512px;
 }
 
 a {
-	color: white;
+  color: #005c5a;
+  font-style: italic;
+  font-weight: 400;
 }
